@@ -1,4 +1,4 @@
-// Delegate behavior to derived classes
+// Delegate behavior to derived classes (CRTP)
 
 template<typename derived>
 class base
